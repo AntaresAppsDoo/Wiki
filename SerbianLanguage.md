@@ -8,5 +8,5 @@ After installation switch to Serbian Language by clicking on:
 My Settings -> Language -> Serbian (Latin, Serbia)
 
 ## Reporting bad translations
-If you stumble upon any problematic translation please report is an issue on the following link:
+If you stumble upon any problematic translation please report an issue on the following link:
 [Issues](https://github.com/AntaresAppsDoo/Wiki/issues).

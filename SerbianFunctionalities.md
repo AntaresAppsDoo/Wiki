@@ -1,7 +1,23 @@
 # Antares Apps doo – Serbian Functionalities Help
 
 ## Installation
-[Click here to search for Serbian Functionalities on AppSource](https://appsource.microsoft.com/).
+[Click here to search for Serbian Functionalities on AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.antaresapps1634735406093%7CAID.serbianfunctionalities%7CPAPPID.92da857b-0491-42d8-9333-e69b77e879af).
 
-## Setup
+## Setup The Company Currency to RSD
+General Ledger Setup -> LCY Code
+Set RSD for LCY Code in General Ledger Setup. This field is across the system to determine if serbian functionalities are active in the company.
 
+## Setup Currency Exchange Rates Update
+Currencies -> Exchange Rate Service -> Exchange Rate Services
+After calling the Action "Exchange Rate Services" the connection with National Bank of Serbia will be initialized.
+Open the Exchange Rate Service Card and enter the username, password and licence id.
+Enable the Exchange Rate Service and select the parameter for running the Job Queue.
+Suggested Settings: Run once daily at 08:30
+
+## Setup Bank Account Update based on VAT Registration No.
+Purchases & Payables Setup -> Set Up Bank Account Sync.
+After running the action "Set Up Bank Account Sync." enter the username, password and licence id.
+
+## Reporting bug
+If you stumble upon any issues please report an issue on the following link:
+[Issues](https://github.com/AntaresAppsDoo/Wiki/issues).
