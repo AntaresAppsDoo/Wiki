@@ -1,11 +1,5 @@
-# Antares Apps doo – Antares Payroll Help
+# Antares Apps doo – Antares Payroll Help - Language Selection
 
-## Installation
-[Click here to search for Antares Payroll on AppSource](https://appsource.microsoft.com/).
-
-## Demo Data
-After installation switch to Payroll Role Center by clicking on:  
-My Settings -> Role -> Payroll
-
-In order to install basic demo data init the process ba calling the action:  
-Payroll Setup -> Init Setup Data
+## Select Language for help content
+[Upustva na sprskom](https://github.com/AntaresAppsDoo/Wiki/blob/main/Serbian/Payroll.md).  
+[Manuals on english](https://github.com/AntaresAppsDoo/Wiki/blob/main/English/Payroll.md).  
