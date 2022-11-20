@@ -18,6 +18,20 @@ Predloženo podešavanje: Pokretati jednom dnevno u 8:30
 Podešavanje nabavke i dugovanja -> Inicijalizuj sinhronizaciju bankovnih računa
 Nakon zvanja akcije "Inicijalizuj sinhronizaciju bankovnih računa" unesite korisničko ime, šifru i ID licence.
 
+## Avansi
+**1. Podešavanje grupe knjiženja kupaca:**
+![image](https://user-images.githubusercontent.com/42636293/202931396-a8ad1a62-8349-4618-a442-70752e979b77.png)
+
+**2. Opšte podešavanje knjiženja:**
+![image](https://user-images.githubusercontent.com/42636293/202930974-e63c6b6f-877d-4587-8407-e1cc6f02477d.png)
+
+**3. Podešavanje knjiženja za PDV:**
+![image](https://user-images.githubusercontent.com/42636293/202931140-7850580c-d41b-4be3-afb0-af21d34afc68.png)
+**4. Podešavanje konta:**
+![image](https://user-images.githubusercontent.com/42636293/202931194-c1c71e92-3d57-40c3-9c3f-4ed195bfd4d5.png)
+![image](https://user-images.githubusercontent.com/42636293/202931215-15cc0cee-b043-4a92-a881-1a35cc942424.png)
+
+
 ## Prijava problema
 Ukoliko naiđete na problem molimo Vas da prijavite slučaj na sledećem linku:
 [Issues](https://github.com/AntaresAppsDoo/Wiki/issues).
