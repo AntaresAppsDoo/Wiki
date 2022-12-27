@@ -18,6 +18,14 @@ Suggested Settings: Run once daily at 08:30
 Purchases & Payables Setup -> Set Up Bank Account Sync.
 After running the action "Set Up Bank Account Sync." enter the username, password and licence id.
 
+## Setup Bank Statement Export/Import
+Bank Export/Import Setup -> Set Up Office Banking
+Bank Export/Import Setup -> Set Up Halcom Banking
+Create new Bank Account and enter values in field "Bank Statement Import Format" and "Payment Export Format"
+General Journal Templates -> create new General Journal Template for example PAYMENT. Type = Payments
+General Journal Templates -> Related -> Template -> Batches -> Create new batch for example EXPORT. "Bal Account Type" = Bank Account, enter Bank Account in field "Bal. Account No."
+General Journal Templates -> Related -> Template -> Batches -> Create new batch for example IMPORT. "Bal Account Type" = Bank Account, enter Bank Account in field "Bal. Account No."
+
 ## Reporting bugs
 If you stumble upon any issues please report an issue on the following link:
 [Issues](https://github.com/AntaresAppsDoo/Wiki/issues).

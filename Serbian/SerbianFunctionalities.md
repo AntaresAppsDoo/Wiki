@@ -18,6 +18,14 @@ Predloženo podešavanje: Pokretati jednom dnevno u 8:30
 Podešavanje nabavke i dugovanja -> Inicijalizuj sinhronizaciju bankovnih računa
 Nakon zvanja akcije "Inicijalizuj sinhronizaciju bankovnih računa" unesite korisničko ime, šifru i ID licence.
 
+## Podešavanje uvoza i izvoza izvoda
+Podešavanje bankovnog izvoza/uvoza -> Inicijalizuj Office Banking
+Podešavanje bankovnog izvoza/uvoza -> Inicijalizuj Halcom Banking
+Kreirati novu račun u banci i uneti vrednost u polje "Format uvoza izvoda iz banke" i u polje "Format izvoza plaćanja"
+Obrasci naloga knjiženja -> kreirati novi obrazac naloga knjiženja npr. PLAĆANJA. Vrsta = Plaćanje
+Obrasci naloga knjiženja -> Povezano -> Obrazac -> Grupe -> Kreirati novu grupu naloga npr. IZVOZ. "Vrsta protivkonta" = Bankovni račun, uneti broj banke u polje "Br. protivkonta"
+Obrasci naloga knjiženja -> Povezano -> Obrazac -> Grupe -> Kreirati novu grupu naloga npr. UVOZ. "Vrsta protivkonta" = Bankovni račun, uneti broj banke u polje "Br. protivkonta"
+
 ## Avansi
 **1. Podešavanje grupe knjiženja kupaca:**
 ![image](https://user-images.githubusercontent.com/42636293/202931396-a8ad1a62-8349-4618-a442-70752e979b77.png)
