@@ -4,11 +4,11 @@
 [Kliknite ovde da biste pretražili Antares Payroll na AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.antaresapps1634735406093%7CAID.payroll%7CPAPPID.82ed9411-e456-4ed9-848d-035fead71575).
 
 ## Uloga za Zarade
-Posle instalacije možete promeniti vašu ulogu na ulogu za Zarade koristeći sledeću putanju:
+Posle instalacije možete promeniti vašu ulogu na ulogu za Zarade koristeći sledeću putanju:<br/>
 Moja podešavanja -> Uloga -> Obračun zarada
 
 ## Demonstracioni podaci
-Da biste instalirali osnovne demonstracione podatke pokrenite proces pozivajući akciju:
+Da biste instalirali osnovne demonstracione podatke pokrenite proces pozivajući akciju:<br/>
 Podešavanje -> Podešavanje zarada -> Inicijalizuj podešavanja
 
 ## Pokretanje obračuna zarada

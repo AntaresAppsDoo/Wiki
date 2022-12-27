@@ -4,11 +4,11 @@
 [Click here to search for Antares Payroll on AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.antaresapps1634735406093%7CAID.payroll%7CPAPPID.82ed9411-e456-4ed9-848d-035fead71575).
 
 ## Role Center for Payroll
-After installation switch to Payroll Role Center by clicking on:
+After installation switch to Payroll Role Center by clicking on:<br/>
 My Settings -> Role -> Payroll
 
 ## Demo Data
-In order to install basic demo data init the process by calling the action:
+In order to install basic demo data init the process by calling the action:<br/>
 Payroll Setup -> Init Setup Data
 
 ## Running Payroll Calculation
