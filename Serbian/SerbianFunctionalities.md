@@ -30,14 +30,17 @@ Obrasci naloga knjiženja -> Povezano -> Obrazac -> Grupe -> Kreirati novu grupu
 **1. Podešavanje grupe knjiženja kupaca:**
 ![image](https://user-images.githubusercontent.com/42636293/202931396-a8ad1a62-8349-4618-a442-70752e979b77.png)
 
-**2. Opšte podešavanje knjiženja:**
-![image](https://user-images.githubusercontent.com/42636293/202930974-e63c6b6f-877d-4587-8407-e1cc6f02477d.png)
+**2. Podešavanje grupe knjiženja dobavljača:**
+![image](https://user-images.githubusercontent.com/42636293/209876637-290ef15c-d60c-4ac3-8440-2d63e09ced79.png)
 
 **3. Podešavanje knjiženja za PDV:**
-![image](https://user-images.githubusercontent.com/42636293/202931140-7850580c-d41b-4be3-afb0-af21d34afc68.png)
+![image](https://user-images.githubusercontent.com/42636293/209876436-d43ac787-0c1b-4436-bb1c-8fc4693cb098.png)
+
 **4. Podešavanje konta:**
-![image](https://user-images.githubusercontent.com/42636293/202931194-c1c71e92-3d57-40c3-9c3f-4ed195bfd4d5.png)
-![image](https://user-images.githubusercontent.com/42636293/202931215-15cc0cee-b043-4a92-a881-1a35cc942424.png)
+![image](https://user-images.githubusercontent.com/42636293/209876779-d443c313-69c3-4c86-aa52-30e28049413b.png)
+![image](https://user-images.githubusercontent.com/42636293/209876820-9ac0d3a7-4270-479f-bbb9-249736a00f3e.png)
+![image](https://user-images.githubusercontent.com/42636293/209876878-dec1683a-5a79-40eb-8bbd-acb7ab0cf8e4.png)
+![image](https://user-images.githubusercontent.com/42636293/209876925-5ffb57b8-4948-418d-b43b-2df28b0ae99a.png)
 
 
 ## Prijava problema
