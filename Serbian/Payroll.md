@@ -3,6 +3,11 @@
 ## Instalacija
 [Kliknite ovde da biste pretražili Antares Payroll na AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.antaresapps1634735406093%7CAID.payroll%7CPAPPID.82ed9411-e456-4ed9-848d-035fead71575).
 
+## Dozvole za Zarade
+Nakon instalacije potrebno je da barem jedan korisnik bude podešen kao administrator zarada:<br/>
+Globalna Pretrage -> Podešavanje korisnika -> Korisnik zarada -> Administrator<br/>
+Ukoliko je korisnik podešen kao Referent za obračun za naknadno otvaranje zatvorenih obračuna moraće da se obrati administratoru.
+
 ## Uloga za Zarade
 Posle instalacije možete promeniti vašu ulogu na ulogu za Zarade koristeći sledeću putanju:<br/>
 Moja podešavanja -> Uloga -> Obračun zarada

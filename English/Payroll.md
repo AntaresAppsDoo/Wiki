@@ -3,6 +3,11 @@
 ## Installation
 [Click here to search for Antares Payroll on AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.antaresapps1634735406093%7CAID.payroll%7CPAPPID.82ed9411-e456-4ed9-848d-035fead71575).
 
+## Permissions for payroll
+After installation make sure that at least one user has been marked as payroll administrator:<br/>
+Global Search -> User Setup -> Payroll User -> Admin<br/>
+If the user has been set up as Payroll Offices he may need to talk to admin when there is a need to reopen already closed calculations.
+
 ## Role Center for Payroll
 After installation switch to Payroll Role Center by clicking on:<br/>
 My Settings -> Role -> Payroll
