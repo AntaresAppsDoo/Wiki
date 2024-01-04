@@ -21,10 +21,10 @@ Payroll Setup -> Init Setup Data
 1. Enter Name, Last Name, National ID, Address and the Bank Account No.
 1. Open the Employee Contracts using action Employee -> Contracts
 1. Enter From Date, Employment Contract Code, Job Title, Work-Hour Template, Amount Type and Amount
-1. Repeat process for Employment Contract Code for the Transport
 1. Create new Calculation from the Calculation list.
 1. Enter Employment Contract Code on the Calculation Card
 1. Call Action "Create Calculation Employees"
+1. In case it is a type of contract for research and development, it is necessary to call up the employee's card from the calculation card and enter the hours that the employee spent on research and development.
 1. Export Calculation to XML in order to be able to send Tax report using the action "Export Calculation to XML"
 1. Export Calculation to Gen. Journal Line using the action "Export Calculation to Gen. Journal Line"
 1. Close the Calculation in order to prevent further modifications
