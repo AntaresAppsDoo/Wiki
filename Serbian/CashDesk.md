@@ -1,4 +1,4 @@
-# Antares Apps doo – Serbian Functionalities Help - Podešavanje
+# Antares Apps doo – Blagajna - Podešavanje
 
 ## Instalacija
 [Kliknite ovde da biste pretražili srpske funkcionalnosti na AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.antaresapps1634735406093%7CAID.serbianfunctionalities%7CPAPPID.92da857b-0491-42d8-9333-e69b77e879af).

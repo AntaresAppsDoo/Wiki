@@ -1,4 +1,4 @@
-# Antares Apps doo – Serbian Functionalities Help - Setup
+# Antares Apps doo – Cash Desk Help - Setup
 
 ## Creating a Cash Desk
 To create a cash desk, navigate to Cash Desks and click on +New. This action will open the Cash Desk card, where you'll need to input the required information into the corresponding fields.<br/>
