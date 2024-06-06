@@ -17,14 +17,24 @@
 ![image](https://user-images.githubusercontent.com/42636293/209877412-373a63d3-ca1d-4bdc-9ef2-b29dddc1be81.png)
 
 **5. Creating Sales Order with prepayment:**
+![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/f5f66bad-062b-4bc7-888f-8ce4dda6f13f)
+![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/0f2006b2-5c02-4b54-9a8d-6bb3759a9d95)
 
 **6. Posting sales prepayment invoice:**
+![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/21848ae6-03a5-46aa-9dec-783dd169cca9)
 
 **7. Posting prepayment payment:**
+![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/ae351cad-ec33-4f23-a475-740a1749ccf8)
 
 **8. Connecting prepayment payment to a sales prepayment invoice:**
+![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/0acdb9aa-35c0-42ce-8d8f-4b3897650b22)
+![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/9e7b2d74-3178-4c50-ad05-4308b48e0524)
+![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/6330dec4-e23a-4e92-9122-572847321b75)
 
 **9. Posting final Invoice:**
+![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/35fd9f29-61e3-4c34-9e63-b58f4e721325)
+![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/6470798d-4c6c-4089-a6c9-e8ae684654ac)
+![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/0c03cc81-c74c-4413-bf87-647f749fa792)
 
 ## Reporting bugs
 If you stumble upon any issues please report an issue on the following link:
