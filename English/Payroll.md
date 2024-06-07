@@ -30,6 +30,17 @@ Payroll Setup -> Init Setup Data
 1. Close the Calculation in order to prevent further modifications
 1. Payments are processed in Payment Journal by using the action "Suggest Payroll Payments"
 
+## Necessary data for exporting Calculation to XML
+1. Company information -> Name
+1. Company information -> Address
+1. Company information -> VAT Registration No.
+1. Company information -> Registration No.
+1. Company information -> Post code -> Place of residence matches the field "Municipality Payment Code" on the postal code
+1. User Setup -> E-mail
+1. User Setup -> Phone No.
+1. Employee -> Postal code -> Place of residence matches the field "Municipality Payment Code" on the postal code
+1. The number of employees is generated on the basis of all active regular employees observed on the first day of calculation
+
 ## Reporting bugs
 If you stumble upon any issues please report an issue on the following link:
 [Issues](https://github.com/AntaresAppsDoo/Wiki/issues).

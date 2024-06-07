@@ -30,6 +30,17 @@ Podešavanje -> Podešavanje zarada -> Inicijalizuj podešavanja
 1. Zatvorite obračun kako biste sprečili dalje menjanje obračuna
 1. Plaćanje se vrši kroz Nalog plaćanje pozivom akcije "Predloži isplate po obračunu zarada"
 
+## Neophodni podaci prilikom generisanja poreske prijave u XML formatu
+1. Podaci o preduzeću -> Ime
+1. Podaci o preduzeću -> Adresa
+1. Podaci o preduzeću -> PIB
+1. Podaci o preduzeću -> Matični broj
+1. Podaci o preduzeću -> Poštanski broj -> Sedište prebivališta odgovara polju "Šifra plaćanje za opštinu" poštanskom broju
+1. Podešavanje korisnika -> E-adresa
+1. Podešavanje korisnika -> Br. telefona
+1. Zaposleni -> Poštanski broj -> Oznaka prebivališta odgovara polju "Šifra plaćanje za opštinu" poštanskom broju
+1. Broj zaposlenih se generiše na osnovu svih aktivnih redovno zaposlenih posmatrano na prvi dan obračuna
+
 ## Prijava problema
 Ukoliko naiđete na problem molimo Vas da prijavite slučaj na sledećem linku:
 [Issues](https://github.com/AntaresAppsDoo/Wiki/issues).
