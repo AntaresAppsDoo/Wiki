@@ -15,6 +15,10 @@ Moja podešavanja -> Uloga -> Obračun zarada
 ## Demonstracioni podaci
 Da biste instalirali osnovne demonstracione podatke pokrenite proces pozivajući akciju:<br/>
 Podešavanje -> Podešavanje zarada -> Inicijalizuj podešavanja
+1. Odabirom opcije "Zemlje i poštanski brojevi" u Business Central-u će biti kreiran zapis za Srbiju u tabeli "Države/regioni" kao i sve opštine iz Srbije u tabeli "Poštanski brojevi". Postojeći zapisi u ove dve tabele mogu biti ažurirani. Zemlja i poštanski broj se nakon toga mogu dodeliti na kartici zaposlenog.
+2. Odabirom opcije "Kalendar i obrasci za radne sate" u Business Central-u će biti kreiran zapis za Srbiju u tabeli "Lista osnovnih kalendara" sa svih praznicima u tekućoj i godini posle tekuće. Takođe biće kreiran 40-časovni obrazac za radne sate. Kalendar i obrazac za radne sate se mogu dodeliti prilikom kreiranja ugovora zaposlenog.
+3. Odabirom opcije "Podešavanja obračuna" kreiraju se sve trenutno podržane vrste obračuna u modulu za zarade sa svim pripadajućim podešavanjima vezano za poreze i doprinose.
+![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/49ae92b1-4c9e-484d-a34f-3832cf5e35dc)
 
 ## Pokretanje obračuna zarada
 1. Kreirajte novog zaposlenog iz liste zaposleni
