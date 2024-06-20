@@ -1,6 +1,5 @@
 # Antares Apps doo – Prepayments - Setup and Usage
 
-## Prepayments
 **1. Customer Posting Groups setup:**
 ![image](https://user-images.githubusercontent.com/42636293/209877202-4e0ee4e7-f2c5-4bc6-b558-ab9c7b6dabd7.png)
 

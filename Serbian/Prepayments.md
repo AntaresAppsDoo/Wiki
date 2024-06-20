@@ -1,6 +1,5 @@
 # Antares Apps doo – Avansi - Podešavanje i korišćenje
 
-## Avansi
 **1. Podešavanje grupe knjiženja kupaca:**
 ![image](https://user-images.githubusercontent.com/42636293/202931396-a8ad1a62-8349-4618-a442-70752e979b77.png)
 
