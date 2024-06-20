@@ -14,7 +14,11 @@ My Settings -> Role -> Payroll
 
 ## Demo Data
 In order to install basic demo data init the process by calling the action:<br/>
-Payroll Setup -> Init Setup Data
+Setup -> Payroll Setup -> Init Setup Data
+1. Selecting the option "Countries and post codes" will create a record for Serbia in Business Central in the "Countries/regions" table, as well as all municipalities from Serbia in the "Post Codes" table. Existing records in these two tables may be updated. The country and post code can then be assigned on the employee's card.
+2. By selecting the option "Calendar and Work Hours Template" a record for Serbia will be created in Business Central in the table "Base Calendars" with all holidays in the current year and the year after the current one. A 40-hour work hours tempplate will also be created. The calendar and work hours template can be assigned when creating an employee contract.
+3. By selecting the "Calculation settings" option, all currently supported types of calculations are created in the salary module with all associated settings related to taxes and contributions.
+![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/589772dd-390f-4005-bcce-97d7d5661a15)
 
 ## Running Payroll Calculation
 1. Create new Employee in the Employee List
