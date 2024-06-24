@@ -21,7 +21,7 @@
 **6. Kreiranje prodajne porudžbine sa avansom:**
 ![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/4161e005-3d25-4d6c-ad79-a64bf0bdb3db)
 U delu za avanse moguće je ručno unesi procenat, iznos ili izabrati avansne uplate. Odabir avansnih uplata vrši se pozivom dugmeta sa tri tačke:
-![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/66ebc8b5-fb8b-4bb3-a4d6-f4e4510abadc)
+![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/ce3a702b-c5ea-4a8c-b75f-37acb52c2428)
 
 **7. Knjiženje prodajne avansne fakture:**
 ![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/0cc22d59-8cbe-47cf-971f-b56e7af1eb7d)
