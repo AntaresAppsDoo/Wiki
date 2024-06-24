@@ -15,17 +15,20 @@
 ![image](https://user-images.githubusercontent.com/42636293/209876878-dec1683a-5a79-40eb-8bbd-acb7ab0cf8e4.png)
 ![image](https://user-images.githubusercontent.com/42636293/209876925-5ffb57b8-4948-418d-b43b-2df28b0ae99a.png)
 
-**5. Kreiranje prodajne porudžbine sa avansom:**
-![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/3d8022bb-7fa8-4378-a8a5-871fef0e3c22)
-![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/f54b527e-59db-4fd7-8626-7034a8d622cd)
-
-**6. Knjiženje prodajne avansne fakture:**
-![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/0cc22d59-8cbe-47cf-971f-b56e7af1eb7d)
-
-**7. Knjiženje avansne uplate:**
+**5. Knjiženje avansne uplate:**
 ![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/7d2104bc-fec7-4c20-a939-4aa9100ee4be)
 
-**8. Povezivanje avansne uplate sa prodajnom avansnom fakturom:**
+**6. Kreiranje prodajne porudžbine sa avansom:**
+![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/4161e005-3d25-4d6c-ad79-a64bf0bdb3db)
+U delu za avanse moguće je ručno unesi procenat, iznos ili izabrati avansne uplate. Odabir avansnih uplata vrši se pozivom dugmeta sa tri tačke:
+![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/66ebc8b5-fb8b-4bb3-a4d6-f4e4510abadc)
+
+**7. Knjiženje prodajne avansne fakture:**
+![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/0cc22d59-8cbe-47cf-971f-b56e7af1eb7d)
+
+
+**8. Povezivanje avansne uplate sa prodajnom avansnom fakturom (opciono):**  
+Povezivanje avansne uplate sa avansnom fakturom moguće ukoliko je iznos avansa na porudžbini unešen ručno. Ukolko je iznos avansa unet odabirom avansnih uplata na porudžbini nema potrebe za povezivanjem na avansnoj fakturi.
 ![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/c535bed3-8993-4407-92df-067a4d6d9566)
 ![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/868c7adb-db86-4b8a-9202-d453823fd215)
 ![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/c184c0ac-c99c-4c04-a290-536f262114f1)
