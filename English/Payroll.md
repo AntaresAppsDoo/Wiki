@@ -4,9 +4,20 @@
 [Click here to search for Antares Payroll on AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.antaresapps1634735406093%7CAID.payroll%7CPAPPID.82ed9411-e456-4ed9-848d-035fead71575).
 
 ## Permissions for payroll
-After installation make sure that at least one user has been marked as payroll administrator:<br/>
-Global Search -> User Setup -> Payroll User -> Admin<br/>
-If the user has been set up as Payroll Offices he may need to talk to admin when there is a need to reopen already closed calculations.
+Three levels of access are provided in the payroll module:
+* Payroll Administrator
+  * recommended permission sets for Cloud environment: SUPER or some other permission set with admin access in combination with "ANTPAYROLLADMIN" permission set.
+  * Global Search -> User Setup -> Payroll User -> Admin<br/>
+* Payroll Officer
+  * recommended permission sets for Cloud environment: "D365 READ", "D365 HR, EDIT" and "ANTPAYROLLOFFICER" 
+  * Global Search -> User Setup -> Payroll User -> Payroll Officer<br/>
+* Payroll Contract Manager
+  * recommended permission sets for Cloud environment: "D365 READ", "D365 HR, EDIT" and "ANTPAYROLLCONTRMAN" 
+  * Global Search -> User Setup -> Payroll User -> Contract Manager<br/>
+  
+After installation, at least one user needs to be set up as an payroll administrator in user setup. If this is not the case, the data init for the module is not possible.<br/>
+In the case of the need to use security filters in order to e.g. the contract manager has limited access to only certain contracts, the following procedure must be performed:<br/>
+Permissoin Sets -> position on permission set "ANTPAYROLLCONTRMAN" -> Copy permission set -> Copy by reference -> Opening the newly created permission set and adding only the desired tables with security filters.
 
 ## Role Center for Payroll
 After installation switch to Payroll Role Center by clicking on:<br/>
