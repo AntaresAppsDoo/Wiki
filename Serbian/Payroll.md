@@ -4,9 +4,20 @@
 [Kliknite ovde da biste pretražili Antares Payroll na AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.antaresapps1634735406093%7CAID.payroll%7CPAPPID.82ed9411-e456-4ed9-848d-035fead71575).
 
 ## Dozvole za Zarade
-Nakon instalacije potrebno je da barem jedan korisnik bude podešen kao administrator zarada:<br/>
-Globalna Pretrage -> Podešavanje korisnika -> Korisnik zarada -> Administrator<br/>
-Ukoliko je korisnik podešen kao Referent za obračun za naknadno otvaranje zatvorenih obračuna moraće da se obrati administratoru.
+U modulu za zarada prevdiđena su tri nivoa pristupa:
+* Administrator za zarade
+  * preporučeni skup dozvola za Cloud okruženje: SUPER ili neki drugi skup dozvola sa administratorskim pravima u kombinaciji sa "ANTPAYROLLADMIN" skupom dozvola.
+  * Globalna Pretraga -> Podešavanje korisnika -> Korisnik zarada -> Administrator<br/>
+* Referent za obračuna zarada
+  * preporučeni skup dozvola za Cloud okruženje: "D365 READ", "D365 HR, EDIT" i "ANTPAYROLLOFFICER" 
+  * Globalna Pretraga -> Podešavanje korisnika -> Korisnik zarada -> Referent za obračun<br/>
+* Menadžer ugovora za zarade
+  * preporučeni skup dozvola za Cloud okruženje: "D365 READ", "D365 HR, EDIT" i "ANTPAYROLLCONTRMAN" 
+  * Globalna Pretraga -> Podešavanje korisnika -> Korisnik zarada -> Menadžer ugovora<br/>
+  
+Nakon instalacije potrebno je da barem jedan korisnik bude podešen kao administrator zarada u podešavanju korisnika. Ukoliko to nije slučaj nije moguće inicijalno podešavanje zarada.<br/>
+U slučaju potrebe korišćenja sigurnosnih filtera kako bi se npr. menadžer ugovora ograničio na pristup samo određenim ugovorima, potrebno uraditi sledeću proceduru:<br/>
+Skupovi dozvola -> pozicioniranje na skupova dozvola "ANTPAYROLLCONTRMAN" -> Kopiraj skup dozvola -> Kopiranje po referenci -> Otvaranje novokreiranog skupa dozvola i dodavanje samo željenih tabela sa sigurnosnim filterima.
 
 ## Uloga za Zarade
 Posle instalacije možete promeniti vašu ulogu na ulogu za Zarade koristeći sledeću putanju:<br/>
