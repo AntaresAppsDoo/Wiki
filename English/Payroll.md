@@ -6,12 +6,15 @@
 ## Permissions for payroll
 Three levels of access are provided in the payroll module:
 * Payroll Administrator
+  * Administrator has unlimited permissions in the Payroll module 
   * recommended permission sets for Cloud environment: SUPER or some other permission set with admin access in combination with "ANTPAYROLLADMIN" permission set.
   * Global Search -> User Setup -> Payroll User -> Admin<br/>
 * Payroll Officer
+  * Compared to the rights of the administrator, Officer has no right to change the general settings in the module.
   * recommended permission sets for Cloud environment: "D365 READ", "D365 HR, EDIT" and "ANTPAYROLLOFFICER" 
   * Global Search -> User Setup -> Payroll User -> Payroll Officer<br/>
 * Payroll Contract Manager
+  * Manager can change the Contracts of employees as well as their deductions and bonuses.
   * recommended permission sets for Cloud environment: "D365 READ", "D365 HR, EDIT" and "ANTPAYROLLCONTRMAN" 
   * Global Search -> User Setup -> Payroll User -> Contract Manager<br/>
   
