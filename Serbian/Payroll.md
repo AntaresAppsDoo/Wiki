@@ -6,12 +6,15 @@
 ## Dozvole za Zarade
 U modulu za zarada predviđena su tri nivoa pristupa:
 * Administrator za zarade
+  * Ima neograničena prava u modulu za zarade
   * preporučeni skup dozvola za Cloud okruženje: SUPER ili neki drugi skup dozvola sa administratorskim pravima u kombinaciji sa "ANTPAYROLLADMIN" skupom dozvola.
   * Globalna Pretraga -> Podešavanje korisnika -> Korisnik zarada -> Administrator<br/>
 * Referent za obračuna zarada
+  * U odnosu na prava administratora nema prava da menja opšta podešavanja u modulu.
   * preporučeni skup dozvola za Cloud okruženje: "D365 READ", "D365 HR, EDIT" i "ANTPAYROLLOFFICER" 
   * Globalna Pretraga -> Podešavanje korisnika -> Korisnik zarada -> Referent za obračun<br/>
 * Menadžer ugovora za zarade
+  * Može da menja Ugovore zaposlenih kao i njihove obustave i bonuse.
   * preporučeni skup dozvola za Cloud okruženje: "D365 READ", "D365 HR, EDIT" i "ANTPAYROLLCONTRMAN" 
   * Globalna Pretraga -> Podešavanje korisnika -> Korisnik zarada -> Menadžer ugovora<br/>
   
