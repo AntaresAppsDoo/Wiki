@@ -47,6 +47,7 @@ Podešavanje -> Podešavanje zarada -> Inicijalizuj podešavanja
 1. Izvezite obračun u nalog knjiženja koristeći akciju "Izvoz u nalog knjiženja"
 1. Zatvorite obračun kako biste sprečili dalje menjanje obračuna
 1. Plaćanje se vrši kroz Nalog plaćanje pozivom akcije "Predloži isplate po obračunu zarada"
+1. Isplatnih listići se mogu odštampati i poslati svakom zaposlenom pojedinačno ili automatski za ceo obračun korišćenjem e-pošte. Više informacija: [Isplatni listići](https://github.com/AntaresAppsDoo/Wiki/blob/main/Serbian/PaySlips.md).    
 
 ## Neophodni podaci prilikom generisanja poreske prijave u XML formatu
 1. Podaci o preduzeću -> Ime
