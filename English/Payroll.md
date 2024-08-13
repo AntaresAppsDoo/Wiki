@@ -47,6 +47,8 @@ Setup -> Payroll Setup -> Init Setup Data
 1. Export Calculation to Gen. Journal Line using the action "Export Calculation to Gen. Journal Line"
 1. Close the Calculation in order to prevent further modifications
 1. Payments are processed in Payment Journal by using the action "Suggest Payroll Payments"
+1. The printout of the Calculation Recapitulation and Pay List can be called from the calculation card or from the list of calculations
+1. Pay slips can be printed and sent to each employee individually or automatically for the entire calculation using e-mail. More information: [Pay Slips](https://github.com/AntaresAppsDoo/Wiki/blob/main/English/PaySlips.md).
 
 ## Necessary data for exporting Calculation to XML
 1. Company information -> Name
