@@ -12,4 +12,5 @@ After posting, it is possible to identify the general ledger entries which posti
 <img width="1028" alt="image" src="https://github.com/user-attachments/assets/cb582ce9-c0c6-4313-80bc-bcbee3652315">
 
 ## Transfer from the transit account to the purchase account
-At this moment, the transfer from the transit account to the purchase account must be carried out manually using the General Journal. It is planned that the user in the posting order will have the option for the system to propose General Journal Lines for all postings to the transitional account using the posting date filter.
+In order for amounts to be transferred from the temporary account to purchase account, it is necessary to call the action "Move from transit accounts" in the General Journal:  
+![image](https://github.com/user-attachments/assets/c18363fa-e241-49f1-b24c-6ed76f76788a)
