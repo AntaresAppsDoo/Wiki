@@ -12,4 +12,6 @@ Nakon knjiženja moguće je na stavkama glavne knjige proveriti koja knjiženja 
 ![image](https://github.com/user-attachments/assets/bae3cf94-26ab-41e2-8725-47e47b6fb328)
 
 ## Preknjižavanje sa prelaznog konta na konto nabvke
-U ovom trenutku preknjižavanje sa prelaznog konta na konto nabavke mora biti izvedeno ut korišćenje naloga knjiženja. Planirano je da korisnik u nalogu knjiženja dobije mogućnost da sistem predloži preknjižavanja za sva knjiženja na prelazni konto uz korišćenje filtera datuma knjiženja.
+Da bi iznosi bili preknjiženi sa prelaznog konta na onto nabavke potrebno je u nalogu glavne knjige pozvati akciju "Preknjižavanje sa prelaznih konta":  
+![image](https://github.com/user-attachments/assets/621f38ee-3ccd-4b6e-83af-6c2816a24a8d)
+
