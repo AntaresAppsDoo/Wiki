@@ -21,5 +21,5 @@
 [Transit Account - Manuals on english](https://github.com/AntaresAppsDoo/Wiki/blob/main/English/TransitAccount.md).  
 
 ## E-Invoicing
-[Efakture - Upustva na sprskom](https://github.com/AntaresAppsDoo/Wiki/blob/main/Serbian/Einvoicing.md).  
-[E-Invoicing - Manuals on english](https://github.com/AntaresAppsDoo/Wiki/blob/main/English/Einvoicing.md).  
+[Efakture i fiskalni računi - Upustva na sprskom](https://github.com/AntaresAppsDoo/Wiki/blob/main/Serbian/Einvoicing.md).  
+[E-Invoicing and fiscal bills- Manuals on english](https://github.com/AntaresAppsDoo/Wiki/blob/main/English/Einvoicing.md).  
