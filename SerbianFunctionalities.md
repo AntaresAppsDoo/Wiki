@@ -14,8 +14,12 @@
 
 ## VAT Reporting
 [PDV Izveštaji - Upustva na sprskom](https://github.com/AntaresAppsDoo/Wiki/blob/main/Serbian/VATReporting.md).  
-[VAT Reporting -Manuals on english](https://github.com/AntaresAppsDoo/Wiki/blob/main/English/VATReporting.md).  
+[VAT Reporting - Manuals on english](https://github.com/AntaresAppsDoo/Wiki/blob/main/English/VATReporting.md).  
 
 ## Transit Account
 [Prelazni konto - Upustva na sprskom](https://github.com/AntaresAppsDoo/Wiki/blob/main/Serbian/TransitAccount.md).  
-[Transit Account -Manuals on english](https://github.com/AntaresAppsDoo/Wiki/blob/main/English/TransitAccount.md).  
+[Transit Account - Manuals on english](https://github.com/AntaresAppsDoo/Wiki/blob/main/English/TransitAccount.md).  
+
+## E-Invoicing
+[Efakture - Upustva na sprskom](https://github.com/AntaresAppsDoo/Wiki/blob/main/Serbian/Einvoicing.md).  
+[E-Invoicing - Manuals on english](https://github.com/AntaresAppsDoo/Wiki/blob/main/English/Einvoicing.md).  
