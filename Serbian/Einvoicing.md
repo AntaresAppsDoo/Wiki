@@ -9,7 +9,7 @@ Podržana je integracija sa državnim portalima:
 Uveriti se da su uvezene definicije za razmenu podataka. Ukoliko navedene definicije nisu prisutne potrebno je uvesti ih sa Cronus baze.
 ![image](https://github.com/user-attachments/assets/57419b62-6321-4db3-b828-3ad203a16ba7)  
 U globalnoj pretrazi potrebno je naći stranicu za podešavanje servisa za edokumente:  
-![image](https://github.com/user-attachments/assets/44446fef-46c7-4bda-894d-2da5e8f70d57) 
+![image](https://github.com/user-attachments/assets/44446fef-46c7-4bda-894d-2da5e8f70d57)  
 Nakon toga potrebno je inicijalizovati podešavanje servisa:  
 ![image](https://github.com/user-attachments/assets/eb1ed3d4-ddf8-419c-bdb1-aacb91df9dc6)  
 Za integraciju sa efakturama potrebno je podešavanje prema pristupnom ključu na portal:  
