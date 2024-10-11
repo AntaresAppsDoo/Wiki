@@ -61,6 +61,28 @@ Podešavanje -> Podešavanje zarada -> Inicijalizuj podešavanja
 1. Zaposleni -> Poštanski broj -> Oznaka prebivališta odgovara polju "Šifra plaćanje za opštinu" poštanskom broju
 1. Broj zaposlenih se generiše na osnovu svih aktivnih redovno zaposlenih posmatrano na prvi dan obračuna
 
+## Podešavanje izveštaja
+Sa modulom za zarade isporučuju se sledeći izveštaji:
+* Isplatni list
+* Rekapitulacija obračuna
+* Potvrda o plaćenim porezima i doprinosima po odbitku
+* Platni spisak za obračun
+* Platni spisak za obračun sa raspodelom po projektima
+
+Ove izveštaje je moguće zameniti korisnički definisanim izveštajima korišćenjem stranice za izbor izveštaja za modul zarade:
+![image](https://github.com/user-attachments/assets/5ca31c1a-8435-4015-8b8c-dcc6902dfb9c)  
+
+
+Na primeru platnog spiska moguće je odabrati jedan od dva izveštaja. Običan platni spisak je pojednostavljena lista primanja zaposlenih dok drugi sadrži više detalja po kategorijama rada i omogućuje pregled sa raspodelom po projektima u Excel formati.
+![image](https://github.com/user-attachments/assets/efec6654-5cd7-4317-9e29-810d3429d275) 
+![image](https://github.com/user-attachments/assets/bdd509f7-48b3-465c-a6a4-ea89b9decf93)
+
+![image](https://github.com/user-attachments/assets/990ffa54-a948-43b8-b4ea-2e0858047eec)  
+  
+![image](https://github.com/user-attachments/assets/87e0e2fe-8db3-4764-b29e-3e14d7e6978d)
+
+
+
 ## Prijava problema
 Ukoliko naiđete na problem molimo Vas da prijavite slučaj na sledećem linku:
 [Issues](https://github.com/AntaresAppsDoo/Wiki/issues).
