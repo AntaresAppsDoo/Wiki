@@ -61,6 +61,26 @@ Setup -> Payroll Setup -> Init Setup Data
 1. Employee -> Postal code -> Place of residence matches the field "Municipality Payment Code" on the postal code
 1. The number of employees is generated on the basis of all active regular employees observed on the first day of calculation
 
+## Report Selection
+The following reports are delivered with the payroll module:
+* Pay Slip
+* Calculation Recapitulation
+* Certificate of paid taxes and withholding tax
+* Pay List for a Calculation
+* Pay List for a Calculation with Project Shares
+
+These reports can be replaced with user-defined reports using the Report Selection page for the Payroll module:
+![image](https://github.com/user-attachments/assets/99096e19-efe9-4fa6-bd8c-e05082482003)
+
+
+On the example of the Pay List, it is possible to choose one of two reports. The regular pay list is a simplified payroll list of employees, while the other one contains more details grouped by work category and enables an overview of project shares in Excel format.
+![image](https://github.com/user-attachments/assets/96ef2359-e288-470d-a73f-27c19c89329b)  
+![image](https://github.com/user-attachments/assets/b9d88047-a564-498b-b96e-4861af0e57bc)  
+
+![image](https://github.com/user-attachments/assets/fbad0796-37ac-4eaa-90b4-892f78f7f9df)  
+   
+![image](https://github.com/user-attachments/assets/9d04e81d-f5c9-467f-8ccc-8b973208ec3f)  
+
 ## Reporting bugs
 If you stumble upon any issues please report an issue on the following link:
 [Issues](https://github.com/AntaresAppsDoo/Wiki/issues).
