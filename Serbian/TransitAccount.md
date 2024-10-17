@@ -15,3 +15,5 @@ Nakon knjiženja moguće je na stavkama glavne knjige proveriti koja knjiženja 
 Da bi iznosi bili preknjiženi sa prelaznog konta na onto nabavke potrebno je u nalogu glavne knjige pozvati akciju "Preknjižavanje sa prelaznih konta":  
 ![image](https://github.com/user-attachments/assets/621f38ee-3ccd-4b6e-83af-6c2816a24a8d)
 
+![image](https://github.com/user-attachments/assets/1e4d639e-0437-47d1-a153-fdb0c55ebbe7)
+
