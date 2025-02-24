@@ -26,5 +26,5 @@
 
 ## Auto Close Vendor Entries
 [Automatsko zatvaranje stavki dobavljača - Upustva na sprskom](https://github.com/AntaresAppsDoo/Wiki/blob/main/Serbian/AutoCloseVendorEntries.md).  
-[Auto Close Vendor Entries - Manuals on english](https://github.com/AntaresAppsDoo/Wiki/blob/main/English/AutoCloseVendorEntr.md).  
+[Auto Close Vendor Entries - Manuals on english](https://github.com/AntaresAppsDoo/Wiki/blob/main/English/AutoCloseVendorEntries.md).  
 
