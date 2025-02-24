@@ -23,3 +23,8 @@
 ## E-Invoicing
 [Efakture i fiskalni računi - Upustva na sprskom](https://github.com/AntaresAppsDoo/Wiki/blob/main/Serbian/Einvoicing.md).  
 [E-Invoicing and fiscal bills- Manuals on english](https://github.com/AntaresAppsDoo/Wiki/blob/main/English/Einvoicing.md).  
+
+## Auto Close Vendor Entries
+[Automatsko zatvaranje stavki dobavljača - Upustva na sprskom](https://github.com/AntaresAppsDoo/Wiki/blob/main/Serbian/AutoCloseVendorEntries.md).  
+[Auto Close Vendor Entries - Manuals on english](https://github.com/AntaresAppsDoo/Wiki/blob/main/English/AutoCloseVendorEntr.md).  
+
