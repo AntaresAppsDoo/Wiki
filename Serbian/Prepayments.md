@@ -1,4 +1,4 @@
-# Antares Apps doo – Avansi - Podešavanje i korišćenje
+# Antares Apps doo – Avansi za porudžbine - Podešavanje i korišćenje
 
 **1. Podešavanje grupe knjiženja kupaca:**
 ![image](https://user-images.githubusercontent.com/42636293/202931396-a8ad1a62-8349-4618-a442-70752e979b77.png)
@@ -27,8 +27,8 @@ U delu za avanse moguće je ručno unesi procenat, iznos ili izabrati avansne up
 ![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/0cc22d59-8cbe-47cf-971f-b56e7af1eb7d)
 
 
-**8. Povezivanje avansne uplate sa prodajnom avansnom fakturom (opciono):**  
-Povezivanje avansne uplate sa avansnom fakturom moguće ukoliko je iznos avansa na porudžbini unešen ručno. Ukolko je iznos avansa unet odabirom avansnih uplata na porudžbini nema potrebe za povezivanjem na avansnoj fakturi.
+**8. Povezivanje avansne uplate sa prodajnom avansnom fakturom:**
+Povezivanje avansne uplate je moguće na porudžbini ili na proknjiženoj avansnoj fakturi
 ![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/c535bed3-8993-4407-92df-067a4d6d9566)
 ![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/868c7adb-db86-4b8a-9202-d453823fd215)
 ![image](https://github.com/AntaresAppsDoo/Wiki/assets/42636293/c184c0ac-c99c-4c04-a290-536f262114f1)
