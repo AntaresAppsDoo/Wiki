@@ -7,7 +7,8 @@
 ![image](https://user-images.githubusercontent.com/42636293/209876637-290ef15c-d60c-4ac3-8440-2d63e09ced79.png)
 
 **3. Podešavanje knjiženja za PDV:**
-<img width="1957" height="447" alt="image" src="https://github.com/user-attachments/assets/be925e26-6a6d-46a7-a6b4-bc07108105b3" />
+<img width="1942" height="538" alt="image" src="https://github.com/user-attachments/assets/e2814ba5-2bb4-4602-9e9b-fc27ba1b47da" />
+
 
 **4. Podešavanje konta:**
 ![image](https://user-images.githubusercontent.com/42636293/209876779-d443c313-69c3-4c86-aa52-30e28049413b.png)
@@ -16,13 +17,13 @@
 ![image](https://user-images.githubusercontent.com/42636293/209876925-5ffb57b8-4948-418d-b43b-2df28b0ae99a.png)
 
 **5. Knjiženje avansne uplate:**
-<img width="2092" height="462" alt="image" src="https://github.com/user-attachments/assets/390eaff3-e82f-4e2e-ab74-211d2546d4fe" />
+<img width="2417" height="547" alt="image" src="https://github.com/user-attachments/assets/09cecdc9-a82d-4632-8379-efe9e1df2f19" />
 
 **6. Kreiranje i knjiženje avansne fakture:**
-<img width="1543" height="795" alt="image" src="https://github.com/user-attachments/assets/ed1a063f-20de-44a3-b695-55a40a09dbe7" />
+<img width="1755" height="735" alt="image" src="https://github.com/user-attachments/assets/f8a2f6ce-d214-4dd6-8c4c-50e1c5b9240e" />
 <img width="670" height="242" alt="image" src="https://github.com/user-attachments/assets/01f50923-c491-49cd-b473-47be4c3cbe85" />
-<img width="1542" height="1193" alt="image" src="https://github.com/user-attachments/assets/4415efce-4209-4b35-9e63-2279ca09054b" />
-<img width="1458" height="1178" alt="image" src="https://github.com/user-attachments/assets/e41affa7-4506-4cd9-ae99-30d9786df3db" />
+<img width="1759" height="1324" alt="image" src="https://github.com/user-attachments/assets/4ed82d61-81a0-4b88-b7a8-d46f1082de80" />
+<img width="1771" height="1356" alt="image" src="https://github.com/user-attachments/assets/3cb000b7-e0e1-4162-a9e3-40a128991cd0" />
 
 **7. Kreiranje i knjiženje konačne fakture:**
 <img width="2051" height="1200" alt="image" src="https://github.com/user-attachments/assets/a36a5db7-014b-40f8-a74a-04f747176f6f" />
