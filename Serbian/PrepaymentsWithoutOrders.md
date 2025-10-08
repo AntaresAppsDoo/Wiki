@@ -17,17 +17,17 @@
 ![image](https://user-images.githubusercontent.com/42636293/209876925-5ffb57b8-4948-418d-b43b-2df28b0ae99a.png)
 
 **5. Knjiženje avansne uplate:**
-<img width="2417" height="547" alt="image" src="https://github.com/user-attachments/assets/09cecdc9-a82d-4632-8379-efe9e1df2f19" />
+<img width="2530" height="558" alt="image" src="https://github.com/user-attachments/assets/3ad03cbd-38fa-49f9-9d6a-91dcc29a74ab" />
 
 **6. Kreiranje i knjiženje avansne fakture:**
-<img width="1755" height="735" alt="image" src="https://github.com/user-attachments/assets/f8a2f6ce-d214-4dd6-8c4c-50e1c5b9240e" />
-<img width="670" height="242" alt="image" src="https://github.com/user-attachments/assets/01f50923-c491-49cd-b473-47be4c3cbe85" />
-<img width="1759" height="1324" alt="image" src="https://github.com/user-attachments/assets/4ed82d61-81a0-4b88-b7a8-d46f1082de80" />
-<img width="1771" height="1356" alt="image" src="https://github.com/user-attachments/assets/3cb000b7-e0e1-4162-a9e3-40a128991cd0" />
+<img width="1634" height="751" alt="image" src="https://github.com/user-attachments/assets/6df5c68b-3453-4801-bedc-3f61b4ee0e98" />
+<img width="1627" height="1335" alt="image" src="https://github.com/user-attachments/assets/bbd7706f-dc67-41f5-821c-94bbd8eb5ff4" />
+<img width="1674" height="1352" alt="image" src="https://github.com/user-attachments/assets/0469fc6b-3150-4636-ad42-d1620e9b033c" />
 
 **7. Kreiranje i knjiženje konačne fakture:**
-<img width="2051" height="1200" alt="image" src="https://github.com/user-attachments/assets/a36a5db7-014b-40f8-a74a-04f747176f6f" />
-<img width="2074" height="1235" alt="image" src="https://github.com/user-attachments/assets/d6c6b68b-9c53-4d47-a3ea-c536654a2455" />
+<img width="1606" height="1310" alt="image" src="https://github.com/user-attachments/assets/25fa11a9-834b-4a3c-9c99-d2341fcd7821" />
+<img width="1677" height="1361" alt="image" src="https://github.com/user-attachments/assets/94ecd5b1-49eb-4a48-8193-caed5b2f4a3f" />
+
 
 ## Prijava problema
 Ukoliko naiđete na problem molimo Vas da prijavite slučaj na sledećem linku:
